@@ -1,0 +1,13 @@
+table {
+  border: 15px solid grey;
+  text-align: center;
+  height: 15px;
+  font-size: 20px;
+}
+.th {
+  background-color: aqua;
+  text-align: center;
+}
+s img {
+  height: 150px;
+}
